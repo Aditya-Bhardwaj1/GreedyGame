@@ -1,0 +1,10 @@
+#root {
+  width: 100%;
+  height: 100%;
+}
+#root {
+  background-color: #0303ef;
+}
+.card-footer::-webkit-scrollbar {
+  display: none;
+}
